@@ -1,4 +1,4 @@
-# A little insight into Aferandox
+# A second try
 
 I am reading a good book and make some practice with its help.
 Training with the Book
